@@ -1,8 +1,8 @@
 # 🌟 Subscription Token Smart Contract (Soroban)
 
 
-<img width="1920" height="1080" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/c2b0db24-a952-4281-bc90-4504792f403b" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea588564-cdd5-4160-843b-c0468a8ad130" />
+https://stellar.expert/explorer/testnet/contract/CAKXAF4HRIVXICLQIJGTALNDDLC66R7VOU6LZELK54OUMHCK5F6JMWFH
 ## 📌 Project Description
 
 This project implements a **subscription-based token system** using Soroban smart contracts on the Stellar network. It enables decentralized subscription management where users can subscribe to services for a fixed duration and verify their active status directly on-chain.
